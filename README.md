@@ -10,3 +10,7 @@ Basic Course of Vue.js on Platzi
 *High performance
 *Vuex
 *vue router
+
+User Input
+|------------>|
+view <- render-State
