@@ -13,6 +13,9 @@
 * vue router
 
 ## Arquitetura
+
 User Input
+
 |------------>|
+
 view <- render-State
