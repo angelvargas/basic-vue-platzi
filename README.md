@@ -1,6 +1,6 @@
-#Basic Course of Vue.js on Platzi
+# Basic Course of Vue.js on Platzi
 
-##Caracteristicas
+## Caracteristicas
 * Framework progresivo
 * MV*
 * Reactivo
@@ -12,7 +12,7 @@
 * Vuex
 * vue router
 
-##Arquitetura
+## Arquitetura
 User Input
 |------------>|
 view <- render-State
